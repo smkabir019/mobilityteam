@@ -1,0 +1,15 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+.customDiv{
+	background:#ddd;
+	margin:3px; 
+	min-height:300px;
+	font-size:large;
+	text-align:center;
+}
+.administative a span .h4{
+	text-align:center;
+	margin-bottom5px;
+}
